@@ -1,0 +1,34 @@
+[0.396s] Invoking command in '/home/appuser/sky/src/offboard_control': PYTHONPATH=/home/appuser/sky/build/offboard_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/appuser/sky/install/offboard_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/offboard_control build --build-base /home/appuser/sky/build/offboard_control/build install --record /home/appuser/sky/build/offboard_control/install.log --single-version-externally-managed install_data
+[0.584s] running egg_info
+[0.584s] creating ../../build/offboard_control/offboard_control.egg-info
+[0.584s] writing ../../build/offboard_control/offboard_control.egg-info/PKG-INFO
+[0.585s] writing dependency_links to ../../build/offboard_control/offboard_control.egg-info/dependency_links.txt
+[0.585s] writing entry points to ../../build/offboard_control/offboard_control.egg-info/entry_points.txt
+[0.585s] writing requirements to ../../build/offboard_control/offboard_control.egg-info/requires.txt
+[0.585s] writing top-level names to ../../build/offboard_control/offboard_control.egg-info/top_level.txt
+[0.585s] writing manifest file '../../build/offboard_control/offboard_control.egg-info/SOURCES.txt'
+[0.586s] reading manifest file '../../build/offboard_control/offboard_control.egg-info/SOURCES.txt'
+[0.586s] writing manifest file '../../build/offboard_control/offboard_control.egg-info/SOURCES.txt'
+[0.586s] running build
+[0.587s] running build_py
+[0.587s] creating /home/appuser/sky/build/offboard_control/build
+[0.587s] creating /home/appuser/sky/build/offboard_control/build/lib
+[0.587s] creating /home/appuser/sky/build/offboard_control/build/lib/offboard_control
+[0.587s] copying offboard_control/__init__.py -> /home/appuser/sky/build/offboard_control/build/lib/offboard_control
+[0.587s] running install
+[0.587s] running install_lib
+[0.587s] creating /home/appuser/sky/install/offboard_control/lib/python3.10/site-packages/offboard_control
+[0.587s] copying /home/appuser/sky/build/offboard_control/build/lib/offboard_control/__init__.py -> /home/appuser/sky/install/offboard_control/lib/python3.10/site-packages/offboard_control
+[0.588s] byte-compiling /home/appuser/sky/install/offboard_control/lib/python3.10/site-packages/offboard_control/__init__.py to __init__.cpython-310.pyc
+[0.588s] running install_data
+[0.588s] creating /home/appuser/sky/install/offboard_control/share/ament_index
+[0.588s] creating /home/appuser/sky/install/offboard_control/share/ament_index/resource_index
+[0.588s] creating /home/appuser/sky/install/offboard_control/share/ament_index/resource_index/packages
+[0.588s] copying resource/offboard_control -> /home/appuser/sky/install/offboard_control/share/ament_index/resource_index/packages
+[0.588s] copying package.xml -> /home/appuser/sky/install/offboard_control/share/offboard_control
+[0.588s] running install_egg_info
+[0.589s] Copying ../../build/offboard_control/offboard_control.egg-info to /home/appuser/sky/install/offboard_control/lib/python3.10/site-packages/offboard_control-0.0.0-py3.10.egg-info
+[0.590s] running install_scripts
+[0.607s] Installing control_node script to /home/appuser/sky/install/offboard_control/lib/offboard_control
+[0.607s] writing list of installed files to '/home/appuser/sky/build/offboard_control/install.log'
+[0.623s] Invoked command in '/home/appuser/sky/src/offboard_control' returned '0': PYTHONPATH=/home/appuser/sky/build/offboard_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/appuser/sky/install/offboard_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/offboard_control build --build-base /home/appuser/sky/build/offboard_control/build install --record /home/appuser/sky/build/offboard_control/install.log --single-version-externally-managed install_data

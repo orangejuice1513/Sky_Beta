@@ -1,0 +1,6 @@
+Invoking command in '/home/appuser/sky/build/px4': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/appuser/sky/install/offboard_control:/opt/ros/humble /usr/bin/cmake /home/appuser/sky/PX4-Autopilot -DCMAKE_INSTALL_PREFIX=/home/appuser/sky/install/px4
+Invoked command in '/home/appuser/sky/build/px4' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/appuser/sky/install/offboard_control:/opt/ros/humble /usr/bin/cmake /home/appuser/sky/PX4-Autopilot -DCMAKE_INSTALL_PREFIX=/home/appuser/sky/install/px4
+Invoking command in '/home/appuser/sky/build/px4': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/appuser/sky/install/offboard_control:/opt/ros/humble /usr/bin/cmake --build /home/appuser/sky/build/px4 -- -j22 -l22
+Invoked command in '/home/appuser/sky/build/px4' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/appuser/sky/install/offboard_control:/opt/ros/humble /usr/bin/cmake --build /home/appuser/sky/build/px4 -- -j22 -l22
+Invoking command in '/home/appuser/sky/build/px4': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/appuser/sky/install/offboard_control:/opt/ros/humble /usr/bin/cmake --install /home/appuser/sky/build/px4
+Invoked command in '/home/appuser/sky/build/px4' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/appuser/sky/install/offboard_control:/opt/ros/humble /usr/bin/cmake --install /home/appuser/sky/build/px4
