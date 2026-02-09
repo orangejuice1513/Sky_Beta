@@ -1,2 +1,2 @@
 # Sky-Beta
-all the code for sky beta 
+contains ros2 workspace package that will be installed on jetson nano 
